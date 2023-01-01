@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vue.vscode-typescript-vue-plugin",
+    "lokalise.i18n-ally",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.path-intellisense",
+    "vue.volar"
+  ]
+}

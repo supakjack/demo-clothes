@@ -1,0 +1,13 @@
+{
+  "css.validate": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "i18n-ally.editor.preferEditor": true,
+  "i18n-ally.localesPaths": ["src/locales"],
+  "i18n-ally.sortKeys": true,
+  "i18n-ally.displayLanguage": "th",
+  "i18n-ally.sourceLanguage": "th",
+  "i18n-ally.annotationMaxLength": 9999,
+  "i18n-ally.keystyle": "nested",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
